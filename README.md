@@ -19,6 +19,13 @@ To write a program to perform linear search and binary search using python progr
 ## Program:
 i)	#Use a linear search method to match the item in a list.
 ```
+DEVELOPED BY:JERUSHLIN JOSE J B
+REG NO:212222240039
+```
+
+
+
+```
 
 def linearSearch(array,n,k):
     for i in range(0,n):
@@ -112,21 +119,25 @@ else:
 
 
 ```
-## Sample Input and Output
-
-![image](https://github.com/Jerushli/Search-Algorithm/assets/120041243/a2101e65-5729-4337-83d6-62a49fd34ff3)
+## Sample  Output:
 
 
 
 
-![image](https://github.com/Jerushli/Search-Algorithm/assets/120041243/d7c6e99a-f948-4591-8175-c8984c46206b)
+![image](https://github.com/Jerushli/Search-Algorithm/assets/120041243/2ea2e25e-0f70-437c-be9a-50978f39b429)
+
+
+
+
+![image](https://github.com/Jerushli/Search-Algorithm/assets/120041243/7b74b183-a87d-486f-981d-b5f3da001478)
 
 
 
 
 
 
-![image](https://github.com/Jerushli/Search-Algorithm/assets/120041243/362862c6-3221-4796-b950-696f8412fcc5)
+![image](https://github.com/Jerushli/Search-Algorithm/assets/120041243/a7eea2b7-2194-49d9-8aaf-9675beb53ff1)
+
 
 
 
